@@ -15,7 +15,7 @@ To use this script you have to installed some required module. Those are given b
 
 Because of it's a python script, it's not make any sense that you maust have to installed <h3>python3</h3>. But if you get some unknow errors which I forgot to handle, please let me know. I will try to fix them.
 
-To use this scipt, just run this command,
+To use this scipt, just run this on your terminal,
 <h3> - python3 scraper.py </h3>
 
 
