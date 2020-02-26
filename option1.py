@@ -1,12 +1,7 @@
 '''
 
-This script will download your pdf books from bdebooks.com website. It is boaring to download lots of books manually. So, I tried to make it easier.
-
-EnjoyYourBooks. 
-#HappyCoding
-
-Author: Knowledgeless
-Github: https://github.com/knowledgeless/
+	Author: Knowledgeless
+	Github: https://github.com/knowledgeless/
 
 '''
 
@@ -126,4 +121,4 @@ except:
 	print(Colors.Red+'''
 		Let Me Know Your Error!
 		Github: https://github.com/Knowledgeless/
-		''')
+	''')
