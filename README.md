@@ -13,11 +13,13 @@ To use this script you have to installed some required module. Those are given b
 - requests
 - bs4 
 
-Because of it's a python script, it's not make any sense that you maust have to installed <h3>python3</h3>. But if you get some unknow errors which I forgot to handle, please let me know. I will try to fix them.
+Because of it's a python script, it's not make any sense that you maust have to installed <h3>python3</h3> But if you get some unknow errors which I forgot to handle, please let me know. I will try to fix them.
 
 To use this scipt, just run this on your terminal,
-<h3> - python3 scraper.py </h3>
+- python3 scraper.py
 
+
+<h2> Mobile User</h2>
 You can use this script on your mobile phone too. To do that you have to installed an additional software from playstore named 'termux'. After completing the installion process, follow the procudure has given bellow. 
 
 - Go to the settings > apps > termux > permission 
