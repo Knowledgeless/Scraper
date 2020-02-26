@@ -88,7 +88,7 @@ try:
 											r = requests.get(dl, stream = True)
 											total = int(r.headers['content-length'])
 												#downloading code
-											with open(t[15:], "wb") as f:
+											with open(t[-50::], "wb") as f:
 												for data in tqdm(iterable = r.iter_content(chunk_size=1024), total=total/1024, unit="KB"):
 													f.write(data)
 											print(Colors.Green+"Complete!")
