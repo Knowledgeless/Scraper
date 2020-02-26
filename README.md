@@ -34,5 +34,6 @@ Now run this command,
 
 - python3 scraper.py
 
-<h2>Bingo! </h2>
-<h2>HaveFun<h2>
+<h2>Bingo! 
+  
+HaveFun</h2>
